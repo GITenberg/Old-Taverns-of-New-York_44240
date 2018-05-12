@@ -1,0 +1,33 @@
+_repo: Old-Taverns-of-New-York_44240
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44240-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bayles, W. Harrison (William Harrison)
+    alias: Bayles, William Harrison
+    birthdate: 1841
+    gutenberg_agent_id: '42649'
+    url: http://www.gutenberg.org/2009/agents/42649
+description: ''
+gutenberg_issued: '2013-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44240'
+  lccn: '16010690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'Hotels -- New York (State) -- New York'
+- !lcsh 'Bars (Drinking establishments) -- New York (State) -- New York'
+- !lcsh 'Taverns (Inns) -- New York (State) -- New York'
+tableOfContents: Dutch taverns -- New York and the pirates -- The Coffee house --
+  The Black Horse -- The Merchants' coffee house -- Tavern signs -- The King's Arms
+  -- Hampden hall -- The Province Arms -- Fraunces' tavern -- The Tontine coffee house
+  -- The City hotel -- The Shakespeare tavern -- Road houses.
+title: Old Taverns of New York
+url: http://www.gutenberg.org/ebooks/44240
